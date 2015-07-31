@@ -1,0 +1,1428 @@
+bplist00Ñ_WebMainResourceÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName^WebResourceURL_WebResourceDataYtext/htmlUUTF-8P_Bhttp://users.csc.calpoly.edu/~jworkman/102/Project04/project4.htmlOú<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 12">
+<meta name="Originator" content="Microsoft Word 12">
+<link rel="File-List" href="program4_files/filelist.xml">
+<title>cpe102 - project4</title>
+<link rel="themeData" href="program4_files/themedata.thmx">
+<link rel="colorSchemeMapping" href="program4_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>95</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" LatentStyleCount="267">
+  <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="99" Name="No List"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-unhide:no;
+	mso-style-link:"Footer Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-unhide:no;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Footer;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.7in .8in .7in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:479424243;
+	mso-list-template-ids:-1232055608;}
+@list l0:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:499851168;
+	mso-list-template-ids:-1232055608;}
+@list l1:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:534654533;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2088984468 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:543718507;
+	mso-list-template-ids:-1232055608;}
+@list l3:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:595788713;
+	mso-list-template-ids:-1232055608;}
+@list l4:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-start-at:2;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:730226091;
+	mso-list-template-ids:-1232055608;}
+@list l5:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:1181626308;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1731206862 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.5in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7
+	{mso-list-id:1365327581;
+	mso-list-template-ids:-1232055608;}
+@list l7:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8
+	{mso-list-id:1538662548;
+	mso-list-type:hybrid;
+	mso-list-template-ids:566162212 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l8:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9
+	{mso-list-id:1764573915;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-68636872 67698703 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l9:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l10
+	{mso-list-id:1912961636;
+	mso-list-template-ids:-1232055608;}
+@list l10:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11
+	{mso-list-id:1914243045;
+	mso-list-template-ids:-1232055608;}
+@list l11:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12
+	{mso-list-id:1951162678;
+	mso-list-template-ids:-1232055608;}
+@list l12:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13
+	{mso-list-id:2119252070;
+	mso-list-template-ids:-1232055608;}
+@list l13:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+<style type="text/css"></style></head>
+
+<body lang="EN-US" link="blue" vlink="purple" style="tab-interval:.5in">
+
+<div class="Section1">
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt;">
+CPE 102 Program 4 - Maze Game, Part 3</span></b></p>
+
+<br>
+
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">
+Ground Rules</span></b></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:.25in"><span style="font-size:12.0pt;">
+No collaboration is allowed on this program assignment. Your program must be an
+individual and original effort. Except for any situations explicitly identified in this
+assignment, if any, you may only receive help from your instructor or the
+<a href="http://www.csc.calpoly.edu/resources/tutoring">tutors</a>
+provided by the Computer Science Department. See the syllabus for your section of the course for
+the significant consequences for disallowed collaboration and/or plagiarism.
+</span></p>
+
+<br>
+
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">
+Submission Instructions</span></b></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:.25in"><span style="font-size:12.0pt;">
+Handin the following files (by 11:59pm Friday  5/22/15 for 100% credit, minus 10% per day after that.): <br>
+<br>
+<b>files:</b>  DelimitedTextIO.java, Drawable.java, DrawableExplorer.java, DrawableMonster.java, DrawableSquare.java,
+DrawableTreasure.java, DrawableMaze.java, Explorer.java, Maze.java, MazeReadException.java,
+Monster.java, Occupant.java, RandomOccupant.java, Square.java, Treasure.java<br>
+<br>
+<b>touser:</b> grader-ph<br>
+<br>
+<b>assignment/subdirectory (depending on instructor):</b>   <br>
+</span></p>
+<br>
+<p class="MsoNormal" style="margin-left:.50in"><span style="font-size:12.0pt;">
+102project4-jw-100 <br>
+102project4-dp-100 <br>
+</span></p>
+
+<br>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;">
+<b>Testing With the Provided Test Driver</b></span></p>
+<p class="MsoNormal" style="margin-left:.25in"><span style="font-size:12.0pt;">
+</span></p><ol>
+  <li>The test driver will be published <i><b>at 6am on the day of the 100% due date for the assignment</b></i>.</li><br>
+  <li>You should develop and use your own tests prior to using the provided test driver. Do not use the provided test driver until your solution is complete
+      and you believe it is correct or you are likely to be overwhelmed with error messages and will spend unnecessary time just trying to understand the test
+      driver - a frustrating and inefficient way to approach problem solving with computers!</li><br>
+  <li>Using the <b><i>save-as feature of your browser, not cut-and-paste</i></b>, save
+      <a href="http://www.csc.calpoly.edu/~jworkman/102/Project04/P4TestDriver.java">P4TestDriver.java</a> (to be published on the first due date) in the same
+      directory as all of the other source files (.java files)</li><br>
+  <li>Compile the P4TestDriver.java, all of your source files (.java files) and run P4TestDriver. 
+      Remember that your code will be graded on unix1 (2, 3, or 4) so, to avoid unpleasant grading surprises be sure to test on one of those machines
+      just before handing it in.</li>
+</ol>
+<p></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;">
+<b>Mini Test Driver</b></span></p>
+<br>
+<p class="MsoNormal" style="margin-left:.25in"><span style="font-size:12.0pt;">
+Testing a project with exceptions and file I/O can be tricky.  <a href="http://www.csc.calpoly.edu/~jworkman/102/Project04/P4TinyDriver.java">Here</a> is
+a "starter" test driver to help you begin testing. This driver is available now and you can use it to build your own tests.
+</span></p>
+
+<br>
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">Learning Objectives<o:p></o:p></span></b></p>
+<br>
+<ul style="margin-top:0in" type="disc">
+ <li class="MsoNormal" style="mso-list:l8 level1 lfo1;tab-stops:list .5in"><span style="font-size:12.0pt;mso-bidi-font-weight: bold">More practice writing your own exceptions.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-list:l8 level1 lfo1;tab-stops:list .5in"><span style="font-size:12.0pt;mso-bidi-font-weight:
+     bold">More practice handling exceptions in code you write.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-list:l8 level1 lfo1;tab-stops:list .5in"><span style="font-size:12.0pt;mso-bidi-font-weight:
+     bold">Practice working with file-based streams.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-list:l8 level1 lfo1;tab-stops:list .5in"><span style="font-size:12.0pt;mso-bidi-font-weight:
+     bold">To solve the issues that come up while reading and writing comma
+     delimited data.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-list:l8 level1 lfo1;tab-stops:list .5in"><span style="font-size:12.0pt;mso-bidi-font-weight:
+     bold">More practice with inheritance and interfaces.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-list:l8 level1 lfo1;tab-stops:list .5in"><span style="font-size:12.0pt;mso-bidi-font-weight:
+     bold">More practice using Java Standard Library classes.<o:p></o:p></span></li>
+</ul>
+
+<br>
+
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">Resources<o:p></o:p></span></b></p>
+
+<br>
+
+<ol style="margin-top:0in" start="1" type="1">
+ <li class="MsoNormal" style="mso-list:l13 level1 lfo2;tab-stops:list .5in"><span style="font-size:12.0pt;"><a href="http://docs.oracle.com/javase/7/docs/api/">Java Standard API</a></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="2" type="1">
+ <li class="MsoNormal" style="mso-list:l13 level1 lfo2;tab-stops:list .5in"><span style="font-size:12.0pt;"><a href="P4TestDriver.java">P4TestDriver.java</a> - to be released 5/22 (at 6am)</span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="3" type="1">
+ <li class="MsoNormal" style="mso-list:l13 level1 lfo2;tab-stops:list .5in"><span style="font-size:12.0pt;">Necessary
+     input files for the test driver - more will be posted later. The first three files are a 
+     well-formed comma delimited Maze files.  The others contain errors of some sort:<br><br>
+ <ul style="margin-top:0in" type="disc">
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeGood.txt">mazeGood.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeGood2.txt">mazeGood2.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeGoodOutOfOrder.txt">mazeGoodOutOfOrder.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeGoodDiffRowsCols.txt">mazeGoodDiffRowsCols.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeBadRowCol.txt">mazeBadRowCol.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeUnknownType.txt">mazeUnknownType.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeDupSquare.txt">mazeDupSquare.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeBadLineFormat.txt">mazeBadLineFormat.txt</a></span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;"><a href="mazeBadLineFormat2.txt">mazeBadLineFormat2.txt</a></span></li>
+ </ul>
+      <br>You may copy them from here or from the command line.  If you copy them from the command line,
+      use the following command:<br>
+      <br>
+      <span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">cp ~jworkman/www/102/Project04/maze*.txt .
+      </span></span></li>
+</ol>
+
+<br>
+
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">
+Problem Description</span></b><span style="font-size:12.0pt;"><o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:.25in"><span style="font-size:12.0pt;">You will be modifying and enhancing your
+Program 3 source code in several ways.&nbsp; You will also be working with
+character streams to read and write comma-delimited text files that contain
+complete maze specifications.&nbsp; Additionally, you will create an exception
+class and throw exceptions when various errors occur. <o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:.25in"><b><span style="font-size:12.0pt;">
+IMPORTANT
+</span></b><span style="font-size:12.0pt;">: When running the provided test
+driver you will need all the text files (see Resources section above for links)
+to be in the directory where the .class files of your solution are found.<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:.25in"><b><span style="font-size:12.0pt;">
+IMPORTANT #2</span></b><span style="font-size:12.0pt;">: You will need to use the .java
+versions of <b>all</b> your Project3-Part 1 files, including the Drawable*.java files.  Your draw() methods will need to be empty to compile
+with a regular java compiler.<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="page-break-after:avoid"><b><span style="font-size:12.0pt;">
+Suggestions</span></b></p>
+
+<br>
+
+<ol style="margin-top:0in" start="1" type="1">
+ <li class="MsoNormal" style="page-break-after:avoid;mso-list:l7 level1 lfo3;
+     tab-stops:list .5in"><span style="font-size:12.0pt;">Make
+     sure your Program 3 - Part 1 code successfully passes <span class="GramE">all of the</span>
+     Program 3 tests before moving on to the Program 4 modifications.<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="2" type="1">
+ <li class="MsoNormal" style="page-break-after:avoid;mso-list:l11 level1 lfo4;
+     tab-stops:list .5in"><span style="font-size:12.0pt;">Then,
+     and only then, <b>COPY</b> all Program 3 source files (.java files) to a new project and
+     begin making the Program 4 modifications.<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="3" type="1">
+ <li class="MsoNormal" style="page-break-after:avoid;mso-list:l11 level1 lfo4;
+     tab-stops:list .5in"><span style="font-size:12.0pt;">Test as you go.  Compile after <i>every</i> change.  At some point you will be updating your game so
+     that you can store it out to a file and read it back in from a file.  I recommend writing all the code to write your maze to a file first (the "toText" method
+     and "writeMazeToFile" method).  Test that and make sure it works to your liking.  Then work on the code to read in from the file (the "toObject" method and
+     "readMazeFromFile" method).</span></li>
+</ol>
+
+<br>
+
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">Specification</span></b><span style="font-size:12.0pt;"><o:p></o:p></span></p>
+
+<p class="MsoNormal"><b><span style="font-size:12.0pt;">&nbsp;</span></b><span style="font-size:12.0pt;"><o:p></o:p></span></p>
+
+<ol style="margin-top:0in" start="1" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">You must
+     implement the classes, interfaces, and methods exactly as described or the
+     provided test driver will not work!<o:p></o:p></span></li>
+</ol>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="2" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Do not
+     reinvent the wheel.&nbsp; Demonstrate knowledge of the Java Standard
+     Library classes you are working with.&nbsp; When and wherever appropriate
+     use code that has already be written and tested for you!&nbsp; Your
+     program will be graded with this in mind!<o:p></o:p></span></li>
+</ol>
+
+<p class="MsoListParagraph"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="3" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Add a default
+     constructor to the <b style="mso-bidi-font-weight:normal">Maze</b>
+     class.&nbsp;Create the <span class="SpellE"><b style="mso-bidi-font-weight:normal">ArrayList</b></span>
+     of <span class="SpellE"><b style="mso-bidi-font-weight:normal">RandomOccupants</b></span>
+     inside the constructor.<o:p></o:p></span></li>
+</ol>
+
+<p class="MsoListParagraph"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="4" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Add a
+     constructor to <b style="mso-bidi-font-weight:normal">Explorer</b> that
+     only takes a <b style="mso-bidi-font-weight:normal">Maze</b> as a
+     parameter.&nbsp;Do not do anything in the
+     constructor except set the <b style="mso-bidi-font-weight:normal">Maze</b>
+     instance variable to the parameter passed in.<o:p></o:p></span></li>
+</ol>
+
+<p class="MsoListParagraph"><span style="font-size:12.0pt;"><o:p> &nbsp; </o:p></span></p>
+
+<ol style="margin-top:0in" start="5" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Add a
+     constructor to <b style="mso-bidi-font-weight:normal">Square</b> that only
+     takes a row and a column.<o:p></o:p></span></li>
+</ol>
+
+<p class="MsoListParagraph"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="6" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">In the <b style="mso-bidi-font-weight:normal">Treasure</b> class, override the </span><span class="SpellE"><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">moveTo</span></span><span style="font-size:12.0pt;"> method of <b style="mso-bidi-font-weight:normal">Occupant</b>.&nbsp;Check to see if this Treasure's <i>current</i> location is null, if
+     not, set the <b style="mso-bidi-font-weight:normal">Treasure</b> at the current
+     location to null.&nbsp;(Remove treasure
+     from that location because we are moving.) Call the parent class </span><span class="SpellE"><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">moveTo</span></span><span style="font-size:12.0pt;"> method to
+     actually do the moving to the new location. Don't
+     forget to set the <b style="mso-bidi-font-weight:normal">Treasure</b> in
+     your new location to 'this'.<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="7" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Create the
+     following <b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+     normal">checked</i></b> exception:<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.0in;text-indent:-.25in"><span class="SpellE"><span style="font-size:12.0pt;">MazeReadException</span></span><span style="font-size:12.0pt;"> - This exception
+should take a <b style="mso-bidi-font-weight:normal">String</b> message, <b style="mso-bidi-font-weight:normal">String</b> line, and <span class="SpellE">int</span>
+<span class="SpellE">lineNumber</span> in its constructor. &nbsp; Pass the message on to the parent class.  Store the line and <span class="SpellE">lineNumber</span>. &nbsp; Create query methods called </span><span class="SpellE"><span class="GramE"><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">getLine</span></span></span><span class="GramE"><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">(</span></span><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">)</span><span style="font-size:12.0pt;"> and </span><span class="SpellE"><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">getLineNum</span></span><span style="font-size:12.0pt;font-family:&quot;Courier New&quot;">()</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">.</span><span style="font-size:12.0pt;"></span></p>
+
+<br>
+
+<ol style="margin-top:0in" start="8" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Write a new
+     Java interface called <span class="SpellE"><b style="mso-bidi-font-weight:
+     normal"><i style="mso-bidi-font-style:normal">DelimitedTextIO</i></b></span>
+     with the following methods:<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="8" type="1">
+ <ul>
+  <li class="MsoNormal" style="mso-list:l1 level2 lfo5;tab-stops:list 1.0in"><span style="font-size:12.0pt;">String <span class="SpellE"><span class="GramE">toText</span></span><span class="GramE">(</span>char
+      delimiter) - This method returns a String containing all the data of the
+      implementing class as text and with each element separated by the
+      provided delimiter.<o:p></o:p></span></li>
+ </ul>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="8" type="1">
+ <ul>
+  <li class="MsoNormal" style="mso-list:l1 level2 lfo5;tab-stops:list 1.0in"><span style="font-size:12.0pt;">void <span class="SpellE">toObject</span>(Scanner input) - This method uses the
+      provided Scanner input to parse delimited text representing the data for
+      the implementing class and initializes the objects instance variables
+      with the parsed values.&nbsp;The
+      delimiter to use must be specified for the Scanner input before calling
+      this method.&nbsp;<o:p></o:p></span></li>
+ </ul></ol>
+
+
+<br>
+
+<ol style="margin-top:0in" start="9" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Implement the <span class="SpellE"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+     normal">DelimitedTextIO</i></b></span> interface in the <b style="mso-bidi-font-weight:normal">Occupant</b> class and the <b style="mso-bidi-font-weight:normal">Square</b> class. &nbsp; Implement its methods in <b style="mso-bidi-font-weight:normal">Occupant</b> and <b style="mso-bidi-font-weight:
+     normal">Square</b> and override them in an necessary subclass as follows:<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="9" type="1">
+ <ul>
+  <li class="MsoNormal" style="mso-list:l1 level2 lfo5;tab-stops:list 1.0in"><span style="font-size:12.0pt;">The <span class="SpellE">toText</span> method should return a delimited <b style="mso-bidi-font-weight:normal">String</b> (a comma in this example)
+      in the order specified below for each specific occupant. &nbsp; Replace the names of the variables with
+      the object's actual values.&nbsp;You
+      must demonstrate that you understand inheritance and overriding methods
+      in your implementation - this means you must not use any <span class="SpellE">accessor</span> methods (other than <span class="SpellE">toText</span>)
+      of <b style="mso-bidi-font-weight:normal">Occupant</b> or any of its
+      subclasses. You may use the row() and col() methods of Square from within Occupant. &nbsp;Recall that you can use the <span class="SpellE"><span class="GramE">getClass</span></span><span class="GramE">(</span>).<span class="SpellE">getName</span>() call to obtain the name of any class at
+      runtime.<o:p></o:p></span></li>
+ </ul></ol>
+
+
+<p class="MsoNormal"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:10.0pt; font-family:&quot;Courier New&quot;">"<span class="SpellE">Square,row,col,wall</span>[UP],wall[RIGHT],wall[DOWN],wall[LEFT],<span class="SpellE">seen,inView</span>"<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:10.0pt;
+font-family:&quot;Courier New&quot;">"<span class="SpellE">Explorer<span class="GramE">,row,col,name</span></span>"<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:10.0pt;
+font-family:&quot;Courier New&quot;">"<span class="SpellE">Treasure<span class="GramE">,row,col,found</span></span>"<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:10.0pt;
+font-family:&quot;Courier New&quot;">"<span class="SpellE">Monster<span class="GramE">,row,col</span></span>"<o:p></o:p></span></p>
+
+<br>
+<p class="MsoNormal" style="margin-left:1.0in"><span style="font-size:12.0pt">Notes: <o:p></o:p></span></p>
+
+<ul style="margin-top:0in;margin-left:1.0in" type="disc">
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Not
+     every subclass of <b>Occupant</b> will need
+     a toText() method. For example, <b>RandomOccupant</b> does not override
+     <b>Occupant's</b> toText() because it has nothing to add.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Think carefully about which classes have the instance variables
+     that need to be added to the text String.</span></li>
+</ul>
+<br>
+<ol style="margin-top:0in" start="9" type="1">
+ <ul>
+  <li class="MsoNormal" style="mso-list:l1 level2 lfo5;tab-stops:list 1.0in"><span style="font-size:12.0pt;">The <span class="SpellE">toObject</span> method should use the provided <b style="mso-bidi-font-weight:normal">Scanner</b> to reverse the process of
+      <span class="SpellE">toText</span> above. &nbsp; For example during Maze's readMazeFromFile, if it read a line that contained the following:
+      <br><br>
+      <span style="font-family:&quot;Courier New&quot;;font-size:10.0pt">Treasure,2,3,false</span>
+      <br><br> the Maze would read the class name from the line and construct a Treasure object and call Treasure's toObject with the Scanner still containing the
+       rest of the line,
+      "2,3,false".  The Treasure would pass that call to
+      its parent (that contains a Maze reference so it could get the proper Square and move there).  Then the Treasure would finish parsing the line so that it could
+      set its "found" variable to false. You must demonstrate that you understand inheritance and
+      overriding methods in your implementation - this means you must not use
+      any methods (other than <span class="SpellE">toObject</span>) of <b style="mso-bidi-font-weight:normal">Occupant</b>,
+      any of its subclasses, or <b style="mso-bidi-font-weight:normal">Square</b>.<o:p></o:p></span></li>
+ </ul></ol>
+
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.0in"><span style="font-size:12.0pt">Notes: <o:p></o:p></span></p>
+
+<ul style="margin-top:0in;margin-left:1.0in" type="disc">
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">The object class name will already
+     have been removed from the input <b style="mso-bidi-font-weight:normal">Scanner</b>
+     when it gets passed to the <span class="SpellE">toObject</span> method of each
+     class.&nbsp;Additionally, the row and <span class="SpellE">col</span> <span class="GramE">will have</span> already been removed for <b style="mso-bidi-font-weight:
+     normal">Square</b>.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">The <b>Scanner</b> will already have its delimiter set appropriately (to parse lines with commmas in them)
+     when it is passed to this method.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Think carefully about how you will read the row and column and use that information to set the location of the particular occupant
+     that you are "building".  You can use the getSquare() method of the <b>Maze</b> class to get the correct <b>Square</b> to moveTo.  Note that Occupant doesn't
+     have access to the <b>Maze</b> so you can't do it there.</span></li>
+</ul>
+
+<br>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <li class="MsoNormal" style="mso-list:l1 level1 lfo5;tab-stops:list .5in"><span style="font-size:12.0pt;">Add the
+     following new methods to the <b style="mso-bidi-font-weight:normal">Maze</b>
+     class:<o:p></o:p></span></li>
+</ol>
+
+<br>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <ul>
+  <li class="MsoNormal" style="mso-list:l1 level2 lfo5;tab-stops:list 1.0in"><span style="font-size:10.0pt;
+      font-family:&quot;Courier New&quot;"><b>public void</b> writeMazeToFile(String fileName) <b>throws</b> IOException</span></li>
+ </ul></ol>
+
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.0in"><span style="font-size:12.0pt">This method must write every <b style="mso-bidi-font-weight:normal">Square</b> and <b style="mso-bidi-font-weight:
+normal">Occupant</b> in the <b style="mso-bidi-font-weight:normal">Maze</b> to
+a text file as comma-delimited text with one <b style="mso-bidi-font-weight:
+normal">Occupant/Square</b> per line.&nbsp; The first line of the file will be
+the "<span class="SpellE">rows<span class="GramE">,cols</span></span>" of the <b style="mso-bidi-font-weight:normal">Maze</b>, then all the <b style="mso-bidi-font-weight:
+normal">Squares</b> should be written to the file, and finally it will write
+all the <b style="mso-bidi-font-weight:normal">Occupants</b>. &nbsp;It <b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal">must</i></b> make use of the <span class="SpellE">toText</span> method written in <b style="mso-bidi-font-weight:
+normal">Occupant</b>, its subclasses, and <b style="mso-bidi-font-weight:normal">Square</b>.
+If, after thinking about it sufficiently, you do not know how to do this you
+may ask you instructor for clarification. You can examine the provided
+comma-delimited input files for examples of what your output should look like
+(see Resources section above).&nbsp;<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.0in"><span style="font-size:12.0pt">Notes: <o:p></o:p></span></p>
+
+<ul style="margin-top:0in;margin-left:1.0in" type="disc">
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">The
+     data must be written in <b><i>exactly the order specified</i></b>
+     depending on <b>Occupant</b> or <b>Square</b> class type (i.e. <b>Treasures</b>
+     must first write "Treasure",
+     then row, then col, then whether it's been found or
+     not). The only <b>String</b> formed in <b>Maze</b> is
+     the first line containing the row and cols of the <b>Maze</b>. All other <b>Strings</b>  
+     written to the file are formed
+    completely by the toText() method of each <b>Object</b>.</span></li>
+</ul>
+
+<br>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <ul>
+  <li class="MsoNormal" style="mso-list:l1 level2 lfo5;tab-stops:list 1.0in"><span style="font-size:10.0pt;
+      font-family:&quot;Courier New&quot;"><b>public void</b> readMazeFromFile(String fileName) <b>throws</b> IOException, FileNotFoundException, MazeReadException</span></li>
+ </ul></ol>
+
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.0in"><span style="font-size:12.0pt">This method must read comma-delimited text
+files in the format specified for the <span class="SpellE">toText</span> method
+of <b style="mso-bidi-font-weight:normal">Occupant</b> class, its subclasses,
+and <b style="mso-bidi-font-weight:normal">Square</b> class. &nbsp;It must make use of the <span class="SpellE">toObject</span>
+method written in <b style="mso-bidi-font-weight:normal">Occupant</b>, its
+subclasses, and <b style="mso-bidi-font-weight:normal">Square</b>. If, after
+thinking about it sufficiently, you do not know how to do this you may ask you
+instructor for clarification. &nbsp; <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <ol style="margin-top:0in" start="2" type="1">
+  <ol style="margin-top:0in" start="1" type="1">
+   <li class="MsoNormal" style="mso-list:l1 level3 lfo5;tab-stops:list 1.5in"><span style="font-size:12.0pt;">The <b style="mso-bidi-font-weight:normal">Maze</b> will be constructed using
+       the new default constructor.&nbsp;It's
+       <span class="GramE"><b style="mso-bidi-font-weight:normal">Square[</b></span><b style="mso-bidi-font-weight:normal">][]</b>, <b style="mso-bidi-font-weight:
+       normal">Explorer</b>, and<b style="mso-bidi-font-weight:normal"> <span class="SpellE">ArrayList</span>&lt;<span class="SpellE">RandomOccupant</span>&gt;</b>
+       will all be constructed from the file.<o:p></o:p></span></li>
+  </ol>
+ </ol>
+</ol>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:12.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <ol style="margin-top:0in" start="2" type="1">
+  <ol style="margin-top:0in" start="2" type="1">
+   <li class="MsoNormal" style="mso-list:l1 level3 lfo5;tab-stops:list 1.5in"><span style="font-size:12.0pt;">Read
+       in the rows and cols of the <b style="mso-bidi-font-weight:normal">Maze</b>
+       to create a <span class="GramE"><b style="mso-bidi-font-weight:normal">Square[</b></span><b style="mso-bidi-font-weight:normal">][] </b>of the appropriate
+       size.&nbsp;Then construct and read in
+       all the <b style="mso-bidi-font-weight:normal">Squares/Occupants</b>. &nbsp; <o:p></o:p></span></li>
+  </ol>
+ </ol>
+</ol>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:12.0pt">For <b style="mso-bidi-font-weight:normal">Squares</b>,
+the <b style="mso-bidi-font-weight:normal">Maze</b> will first determine that
+the line starts with "Square". It will then read in the row and <span class="SpellE">col</span> of the <b style="mso-bidi-font-weight:normal">Square</b>
+and use that information to construct a <b style="mso-bidi-font-weight:normal">Square</b>
+object using the constructor that takes a row and col.&nbsp;Finally it will pass the rest of
+the <b style="mso-bidi-font-weight:normal">Scanner</b> to the <b style="mso-bidi-font-weight:normal">Square's</b> <span class="SpellE">toObject</span>
+method so it can initialize itself.&nbsp;<o:p></o:p></span></p>
+
+<br>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:12.0pt">For all other <b style="mso-bidi-font-weight:
+normal">Occupants</b>, the <b style="mso-bidi-font-weight:normal">Maze</b> will
+determine what kind of <b style="mso-bidi-font-weight:normal">Occupant</b> it
+is and construct the appropriate object using the constructor that only takes a
+<b style="mso-bidi-font-weight:normal">Maze</b>. &nbsp; It will <i style="mso-bidi-font-style:normal">not</i>
+read the row or the <span class="SpellE">col</span> from the <b style="mso-bidi-font-weight:
+normal">Scanner</b>, but simply pass the <b style="mso-bidi-font-weight:normal">Scanner</b>
+on to the <span class="SpellE">toObject</span> method of the newly created
+object.  Don't forget to add RandomOccupants to the ArrayList once they are fully initialized.<o:p></o:p></span></p>
+
+<p class="MsoListParagraph"><span style="font-size:12.0pt;"><o:p>&nbsp;</o:p></span></p>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <ol style="margin-top:0in" start="2" type="1">
+  <ol style="margin-top:0in" start="3" type="1">
+   <li class="MsoNormal" style="mso-list:l1 level3 lfo5;tab-stops:list 1.5in"><span style="font-size:12.0pt;">When reading
+       in data and initializing itself from the file, the <span class="SpellE">readMazeFromFile</span>
+       method will throw several exceptions.<o:p></o:p></span></li>
+  </ol>
+ </ol>
+</ol>
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:12.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+
+
+
+ <ul style="margin-top:0in;margin-left:1.25in" type="disc">
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Should
+     a <b>FileNotFoundException</b> or
+     <b>IOException</b>
+     occur, it will do nothing and simply let the exception propagate to the method
+     caller.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Should
+     the first line of the file not contain the row and col,
+     it will throw a <b>MazeReadException</b>
+     with the message "Rows and columns not specified." It will additionally store the contents of
+     the line the error occurred on and the line number.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Should
+     it read in a Square with a row and col that has
+     already been initialized, it will throw a <b>MazeReadException</b> with the
+     message "Duplicate square."  It will additionally store the contents of
+     the line the error occurred on and the line number.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Should
+     the first it read a line where the first word is not a valid class, it will
+     throw a <b>MazeReadException</b>
+     with the message "Unknown type." It will
+     additionally store the contents of the line the error occurred on and the line
+     number.</span></li>
+  <li class="MsoNormal" style="mso-list:l13 level2 lfo2;tab-stops:list 1.0in"><span style="font-size:12.0pt;">Should
+     any exceptions get thrown from a toObject() method call, it will catch the exception and then it will
+     throw a <b>MazeReadException</b>
+     with the message "Line format or other error."  It will additionally store the contents of the line the error occurred on
+     and the line number.</span></li>
+ </ul>
+
+
+
+<p class="MsoNormal" style="margin-left:1.5in"><span style="font-size:12.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;<o:p></o:p></span></p>
+
+<ol style="margin-top:0in" start="10" type="1">
+ <ol style="margin-top:0in" start="2" type="1">
+  <ol style="margin-top:0in" start="4" type="1">
+   <li class="MsoNormal" style="mso-list:l1 level3 lfo5;tab-stops:list 1.5in"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt">Hint</span></b><span style="font-size:12.0pt;">: &nbsp; The instructor solution uses two <b style="mso-bidi-font-weight:
+       normal">Scanners</b>, one to read lines from the file, the second to
+       parse each line.&nbsp;Don't forget to
+       set the delimiter of the second <b style="mso-bidi-font-weight:normal">Scanner</b>!<o:p></o:p></span></li>
+  </ol>
+ </ol>
+</ol>
+<br><br>
+<i>Last updated 5/5/15 by Julie Workman</i>
+</div>
+
+
+
+
+</body></html>    ( > \ s ‚ ” ž ¤ ¥ ê                           úï
